@@ -1,0 +1,5 @@
+!pip install Streamlit
+!pip install Pillow
+!pip install pdfplumber
+!pip install Groq
+!pip install Base64
