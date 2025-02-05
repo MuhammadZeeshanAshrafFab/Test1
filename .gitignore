@@ -1,0 +1,88 @@
+# Python
+models/__pycache__
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.env
+.venv
+pip-log.txt
+pip-delete-this-directory.txt
+
+# IDE specific files
+.idea/
+.vscode/
+*.swp
+*.swo
+.project
+.pydevproject
+.settings
+
+# Logs
+logs/
+*.log
+log.txt
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+medical_chatbot.db
+
+# PDF & Image files (test data)
+*.pdf
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.svg
+
+# Streamlit
+.streamlit/secrets.toml
+.streamlit/config.toml
+
+# OS specific
+.DS_Store
+Thumbs.db
+*.bak
+*.tmp
+*.temp
+
+# Security/Secrets
+*.pem
+*.key
+*.cert
+secrets.yaml
+secrets.yml
+secrets.json
+
+# Test coverage
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
